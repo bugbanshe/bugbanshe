@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I'm Shiphrah Wairima.
 
 <!--
 **Alchemi936/Alchemi936** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
