@@ -36,13 +36,13 @@ With experience in technical support within a Managed Service Provider (MSP) env
 
 ## 💻🔐 **Cybersecurity Projects:**
 
-- **DevSecOps:** Integrating Security Testing Into The Software Development Lifecycle
-- **DevSecOps Pipeline:** Using AWS Cloud Infrastructure
-- **SOC in Azure:** Creating a Security Operations Center (SOC) with a Honeynet to Analyze Live Traffic
-- **Azure Sentinel:** Creating Honeynets and Investigating Live Threats
-- **Email Threat Investigation:** Analyzing Phishing Emails Using Cyberchef, AbuseIPDB, MXLookup, ReverseDNSLookup, SPF & DKIM Check, and Proofpoint
-- **Active Directory Lab:** Implementing Active Directory and Automating User Creation with PowerShell
-- **Intrusion Detection System:** Building an IDS with Snort
+Email Threat Investigation: Analyzing Phishing Emails Using Cyberchef, AbuseIPDB, MXLookup, ReverseDNSLookup, SPF & DKIM Check, and Proofpoint
+Active Directory Lab: Implementing Active Directory and Automating User Creation with PowerShell
+Intrusion Detection System: Building an IDS with Snort for Real-time Threat Detection
+Web Security Testing: Conducting Vulnerability Assessments and Exploiting OWASP Top 10 Vulnerabilities
+Bug Bounty Project: Identifying and Reporting Security Flaws in Web Applications Through Recon, XSS, and SQL Injection
+Blockchain Voting System: Developing a Quantum-Resistant Blockchain Voting System Using Rust, Ethereum, and Threshold Encryption
+Decentralized Security: Building a Dapp with Integrated Encryption, Decentralized Certification Authority (CA), and HTTP Outcall Capabilities Using Rust and Node.js
 
 ---
 
